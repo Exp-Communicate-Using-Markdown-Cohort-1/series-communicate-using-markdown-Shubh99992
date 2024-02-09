@@ -4,12 +4,12 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-<!-- [x] List syntax is required
+- [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
 
 
-```
+<!--```
 console.log("Hello, world!");
 for (let i = 0; i < 10; i++) {
     console.log(i);
